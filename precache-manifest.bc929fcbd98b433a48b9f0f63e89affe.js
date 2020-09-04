@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e396887f90fbe50af3f49b94f95e0cd9",
+    "revision": "3fa6e13b66b3a39f8ef1eee4732177a5",
     "url": "/CRUD-MERN/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CRUD-MERN/static/css/2.b56a0318.chunk.css"
   },
   {
-    "revision": "9573dc138197bb448fce",
+    "revision": "89182fd891557780d11d",
     "url": "/CRUD-MERN/static/css/main.d3aeb551.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CRUD-MERN/static/js/2.e21ccbec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9573dc138197bb448fce",
-    "url": "/CRUD-MERN/static/js/main.5c7a565a.chunk.js"
+    "revision": "89182fd891557780d11d",
+    "url": "/CRUD-MERN/static/js/main.f6bf5d9d.chunk.js"
   },
   {
     "revision": "8c9819ba2d619396bd04",
