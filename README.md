@@ -1,4 +1,4 @@
-# Weather App
+# Notes App
 This is a very simple CRUD made with MERN stack, you can create,update,delete notes and users
 
 # Live Demo
