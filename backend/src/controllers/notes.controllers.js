@@ -37,7 +37,7 @@ notesCtrl.updateNote=async(req,res) => {
 }
 
 notesCtrl.deleteNote=async (req,res) => {
-    const note=await noteModel.findOneAndDelete(req.params.id);
+    const note=await noteModel.findOneAndDelete({_id:req.params.id});
     res.json({message:'note deleted'})
 }
 module.exports= notesCtrl;

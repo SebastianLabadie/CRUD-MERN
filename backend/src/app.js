@@ -3,7 +3,7 @@ const cors = require('cors');
 const app=express();
 
 //settings -->variables de a usar 
-app.set('port',process.env.PORT || 3000 );
+app.set('port',process.env.PORT || 4000 );
 
 //middlewares -->funciones que se ejecutan antes de llegar a las rutas 
 app.use(cors());
