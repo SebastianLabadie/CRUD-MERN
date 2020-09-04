@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/CRUD-MERN/static/css/main.d3aeb551.chunk.css",
-    "main.js": "/CRUD-MERN/static/js/main.f6bf5d9d.chunk.js",
-    "main.js.map": "/CRUD-MERN/static/js/main.f6bf5d9d.chunk.js.map",
+    "main.js": "/CRUD-MERN/static/js/main.1fe7b207.chunk.js",
+    "main.js.map": "/CRUD-MERN/static/js/main.1fe7b207.chunk.js.map",
     "runtime-main.js": "/CRUD-MERN/static/js/runtime-main.492d570e.js",
     "runtime-main.js.map": "/CRUD-MERN/static/js/runtime-main.492d570e.js.map",
     "static/css/2.b56a0318.chunk.css": "/CRUD-MERN/static/css/2.b56a0318.chunk.css",
-    "static/js/2.e21ccbec.chunk.js": "/CRUD-MERN/static/js/2.e21ccbec.chunk.js",
-    "static/js/2.e21ccbec.chunk.js.map": "/CRUD-MERN/static/js/2.e21ccbec.chunk.js.map",
+    "static/js/2.f6b59a4d.chunk.js": "/CRUD-MERN/static/js/2.f6b59a4d.chunk.js",
+    "static/js/2.f6b59a4d.chunk.js.map": "/CRUD-MERN/static/js/2.f6b59a4d.chunk.js.map",
     "index.html": "/CRUD-MERN/index.html",
-    "precache-manifest.bc929fcbd98b433a48b9f0f63e89affe.js": "/CRUD-MERN/precache-manifest.bc929fcbd98b433a48b9f0f63e89affe.js",
+    "precache-manifest.36dc602b18ca19afa1ba3c907e83a6b5.js": "/CRUD-MERN/precache-manifest.36dc602b18ca19afa1ba3c907e83a6b5.js",
     "service-worker.js": "/CRUD-MERN/service-worker.js",
     "static/css/2.b56a0318.chunk.css.map": "/CRUD-MERN/static/css/2.b56a0318.chunk.css.map",
     "static/css/main.d3aeb551.chunk.css.map": "/CRUD-MERN/static/css/main.d3aeb551.chunk.css.map",
-    "static/js/2.e21ccbec.chunk.js.LICENSE.txt": "/CRUD-MERN/static/js/2.e21ccbec.chunk.js.LICENSE.txt"
+    "static/js/2.f6b59a4d.chunk.js.LICENSE.txt": "/CRUD-MERN/static/js/2.f6b59a4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.492d570e.js",
     "static/css/2.b56a0318.chunk.css",
-    "static/js/2.e21ccbec.chunk.js",
+    "static/js/2.f6b59a4d.chunk.js",
     "static/css/main.d3aeb551.chunk.css",
-    "static/js/main.f6bf5d9d.chunk.js"
+    "static/js/main.1fe7b207.chunk.js"
   ]
 }
