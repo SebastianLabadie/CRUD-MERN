@@ -19,6 +19,7 @@ function App() {
           <Route exact path='/edit/:id' component={CreateNote}/>
           <Route exact path='/create' component={CreateNote}/>
           <Route exact path='/user' component={CreateUser}/>
+          <Route exact path='/CRUD-MERN/' component={NotesList}/>
         </Switch>
       </div>
       
